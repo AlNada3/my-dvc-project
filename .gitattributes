@@ -1,3 +1,1 @@
 .dvc/cache/files/md5/* filter=lfs diff=lfs merge=lfs -text
-data/features/train_bow.csv filter=lfs diff=lfs merge=lfs -text
-data/features/test_bow.csv filter=lfs diff=lfs merge=lfs -text
