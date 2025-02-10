@@ -1,0 +1,5 @@
+outs:
+- md5: e156ddd173adc39a03f96bff870ed68d
+  size: 116510398
+  hash: md5
+  path: test_bow.csv
