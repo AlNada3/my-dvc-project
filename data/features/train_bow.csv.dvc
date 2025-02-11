@@ -1,0 +1,5 @@
+outs:
+- md5: 137e205112ba5d24eaf6977b8fc16319
+  size: 465469768
+  hash: md5
+  path: train_bow.csv
